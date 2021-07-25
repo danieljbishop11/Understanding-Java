@@ -11,7 +11,7 @@ public class Comments {
       /*
       This is a multi-line comment!
       Everything in this will be commented out as well,
-       and we can have multiple lines in here too
+      and we can have multiple lines in here too
       */
     }
 }
