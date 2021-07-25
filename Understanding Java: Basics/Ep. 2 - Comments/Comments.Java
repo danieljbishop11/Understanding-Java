@@ -1,7 +1,7 @@
 public class Comments {
 
     public static void main(String[] args) {
-	    // Single Line Comment
+      // Single Line Comment
 
       // Right here we have our ready, set, go! to print:
       System.out.println("Ready");
